@@ -1,0 +1,110 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: sans-serif;
+    
+}
+
+.wrapper{
+    position: relative;
+    top: -600px;
+    left: 300px;
+    width: 480px;
+    color: aliceblue;
+    
+}
+
+
+.wrapper h1{
+    font-size: 50px;
+}
+.wrapper h3{
+    font-size: 20px;
+}
+.wrapper p{
+    color: #fff;
+}
+.view{
+    background-color: #ff0739;
+    padding: 14px 33px;
+    font-size: 17px;
+    color: #fff;
+    border: 1px solid #f6214b;
+}
+.view:hover{
+    background-color: inherit;
+    border: 1px solid #fff;
+}
+.car{
+    position: relative;
+    top: -1100px;
+    left: 1100px;
+    background-color: #fff;
+    padding: 60px 60px;
+    width: 400px;
+    
+}
+
+.input{
+    width: 280px;
+}
+.input2{
+    width: 400px;
+}
+.btn2{
+    background-color: #f6214b;
+    color: #fff;
+    width: 280px;
+    height: 40px;
+    border-radius: 7px;
+    border: 1px solid #f6214b;
+}
+.book{
+    margin-top: -850px;
+}
+.book2{
+    display: flex;
+    width: 257px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.href{
+    margin-left: 600px;
+}
+.href p{
+    text-align: center;
+    width: 650px;
+    font-size: 20px;
+}
+.href h1{
+    font-size: 50px;
+    margin-left: -80px;
+}
+.book2 h1{
+    font-size: 25px;
+    margin-top: 20px;
+}
+.book2 div{
+    margin-left: 50px;
+}
+.book2 img:hover{
+    
+    transition: 1s;
+}
+.btn3{
+    margin-top: 20px;
+    background-color: #212529;
+    padding: 8px 20px;
+    color: #fff;
+    border: 1px solid  #212529;
+}
+.btn3:hover{
+    background-color: #f6214b;
+    border: 1px solid #f6214b;
+}
+.book2 h1:hover{
+    color: #f6214b;
+}
